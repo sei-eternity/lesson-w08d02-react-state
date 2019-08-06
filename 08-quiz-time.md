@@ -22,6 +22,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+ <p>My favorite ice cream is {this.props.flavor}!</p>
 ```
 
 <br><br>
@@ -48,6 +50,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+Yes
 ```
 
 <br><br>
@@ -77,6 +81,9 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+Not sure...
+
 ```
 
 
@@ -93,6 +100,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+True
 ```
 
 
@@ -114,6 +123,9 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+create-react-app jungle_maze
+
 ```
 
 <br><br>
@@ -154,6 +166,10 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+1. The Store component call needs to end with `/>`, not just `>`
+5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
+
 ```
 
 <br><br>
@@ -192,6 +208,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+No
 ```
 
 <br><br>
@@ -214,6 +232,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
 ```
 
 <br><br>
@@ -237,6 +257,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+2. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 ```
 
 <br><br>
@@ -257,6 +279,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+prop
 ```
 
 <br><br>
@@ -290,6 +314,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+5. All of the above.
 ```
 
 <br><br>
@@ -306,6 +332,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+False
 ```
 
 <br><br>
@@ -327,6 +355,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+3. A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array.
 ```
 
 <br><br>
@@ -352,6 +382,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+Yes
 ```
 
 <br><br>
@@ -379,6 +411,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+Yes
 ```
 
 <br>
