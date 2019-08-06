@@ -22,6 +22,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+1
+
 ```
 
 <br><br>
@@ -48,6 +50,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+No
 ```
 
 <br><br>
@@ -76,7 +79,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 
@@ -93,6 +96,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+False
 ```
 
 
@@ -114,6 +118,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+
+3
 ```
 
 <br><br>
@@ -153,7 +159,7 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 ```
-PUT YOUR ANSWER HERE
+1 and 5
 ```
 
 <br><br>
@@ -191,7 +197,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+Yes
 ```
 
 <br><br>
@@ -213,7 +219,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 <br><br>
@@ -236,7 +242,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 <br><br>
@@ -256,7 +262,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 <br><br>
@@ -289,7 +295,7 @@ Choices:
 5. All of the above.
 
 ```
-PUT YOUR ANSWER HERE
+5
 ```
 
 <br><br>
@@ -305,7 +311,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
+False
 ```
 
 <br><br>
@@ -326,7 +332,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3
 ```
 
 <br><br>
@@ -351,7 +357,7 @@ Choices:
 4. Yes
 
 ```
-PUT YOUR ANSWER HERE
+yes
 ```
 
 <br><br>
@@ -378,7 +384,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1
 ```
 
 <br>
