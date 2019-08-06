@@ -22,6 +22,8 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
+
 ```
 
 <br><br>
@@ -47,7 +49,8 @@ Choices:
 2. `No`
 
 ```
-PUT YOUR ANSWER HERE
+PUT YOUR ANSWER HERE 
+`No`
 ```
 
 <br><br>
@@ -77,6 +80,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+Choic 1
 ```
 
 
@@ -94,6 +98,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+`False`
 
 
 
@@ -115,6 +120,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+`create-react-app jungle_maze`
 
 <br><br>
 
@@ -155,6 +161,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+`1 and 2`
 
 <br><br>
 
@@ -193,6 +200,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+`Yes`
 
 <br><br>
 
@@ -215,6 +223,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+2
 
 <br><br>
 
@@ -238,6 +247,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+3
 
 <br><br>
 
@@ -258,6 +268,8 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+prop
+
 
 <br><br>
 
@@ -268,8 +280,8 @@ What is wrong with the below code? Choose all that apply.
 
 ```jsx
 class Compliment extends Component {
-  constructor () {
     state = {
+  constructor () {
       compliment = "You're so awesome!"
     };
   }
@@ -291,6 +303,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+5
 
 <br><br>
 
@@ -307,6 +320,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+False
 
 <br><br>
 
@@ -328,6 +342,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+3
 
 <br><br>
 
@@ -353,7 +368,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+2
 <br><br>
 
 **Question 15.** 
@@ -380,5 +395,6 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
+3
 
 <br>
