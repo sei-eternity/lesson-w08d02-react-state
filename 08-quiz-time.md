@@ -21,7 +21,7 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 ```
-PUT YOUR ANSWER HERE
+`<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 <br><br>
@@ -47,7 +47,7 @@ Choices:
 2. `No`
 
 ```
-PUT YOUR ANSWER HERE
+`No`
 ```
 
 <br><br>
@@ -76,7 +76,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+. The `ReactDOM.render` method returns JSX to the `Kangaroos` component, and the `Kangaroos` component returns a virtual DOM node. React updates on the webpage only the elements specified in Kangaroos that have changed.
 ```
 
 
@@ -92,7 +92,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
+`False`
 ```
 
 
@@ -113,7 +113,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+`create-react-app jungle_maze`
 ```
 
 <br><br>
@@ -153,7 +153,7 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 ```
-PUT YOUR ANSWER HERE
+When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
 ```
 
 <br><br>
@@ -191,7 +191,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+`Yes`
 ```
 
 <br><br>
@@ -213,7 +213,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+At the top of the component class; you always need it for accurate setup of that class.
 ```
 
 <br><br>
@@ -236,7 +236,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+ The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
+
 ```
 
 <br><br>
@@ -256,7 +257,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+`prop`
 ```
 
 <br><br>
@@ -289,7 +290,7 @@ Choices:
 5. All of the above.
 
 ```
-PUT YOUR ANSWER HERE
+All of the above.
 ```
 
 <br><br>
@@ -305,7 +306,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
+`False`
 ```
 
 <br><br>
@@ -326,7 +327,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. A map is like a `for` loop. With `map`, you make a new variable and with it iterate through each item in an array.
 ```
 
 <br><br>
@@ -351,7 +352,7 @@ Choices:
 4. Yes
 
 ```
-PUT YOUR ANSWER HERE
+No - the first line of the function should be `const myDrinks = map( (drinks, index)`
 ```
 
 <br><br>
@@ -378,7 +379,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+No - `juiceType` was never initialized
 ```
 
 <br>
