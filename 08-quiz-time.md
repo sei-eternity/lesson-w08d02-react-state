@@ -20,8 +20,7 @@ Choices:
 3. `<p>My favorite ice cream is {props.flavor}!</p>`
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
-```
-PUT YOUR ANSWER HERE
+<p>My favorite ice cream is {this.props.flavor}!</p>
 ```
 
 <br><br>
@@ -47,7 +46,7 @@ Choices:
 2. `No`
 
 ```
-PUT YOUR ANSWER HERE
+2. `No` must be in <div>
 ```
 
 <br><br>
@@ -76,7 +75,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2
 ```
 
 
@@ -92,7 +91,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
+False
 ```
 
 
@@ -113,7 +112,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. create-react-app jungle_maze
 ```
 
 <br><br>
@@ -153,7 +152,8 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 ```
-PUT YOUR ANSWER HERE
+1. The Store component call needs to end with `/>`, not just `>`
+
 ```
 
 <br><br>
@@ -191,7 +191,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. `Yes`
 ```
 
 <br><br>
@@ -236,7 +236,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1.The new state will be passed into the current state of the component. The virtual DOM tree is updated. A diff is run between the virtual DOM tree and the regular DOM tree. Only the correspondingly elements in the regular DOM tree will update.
 ```
 
 <br><br>
@@ -256,7 +256,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. `state`
 ```
 
 <br><br>
@@ -289,7 +289,7 @@ Choices:
 5. All of the above.
 
 ```
-PUT YOUR ANSWER HERE
+5. All of the above.
 ```
 
 <br><br>
@@ -305,7 +305,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
+false
 ```
 
 <br><br>
@@ -326,7 +326,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+
 ```
 
 <br><br>
@@ -351,7 +351,7 @@ Choices:
 4. Yes
 
 ```
-PUT YOUR ANSWER HERE
+ No - `index` is a keyword and cannot be used as a variable
 ```
 
 <br><br>
@@ -378,7 +378,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+1. No - the array should be called with `this.props.Juice`, making it `this.props.Juice.map`
 ```
 
 <br>
