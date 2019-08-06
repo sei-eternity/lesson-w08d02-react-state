@@ -13,7 +13,7 @@
 
 A component is being passed a prop named `flavor`. What JSX would the component return in its render method to display the prop in a paragraph?
 
-Choices:
+Choices: 
 
 1. `<p>My favorite ice cream is {this.props.flavor}!</p>`
 2. `<p>My favorite ice cream is {props.this.flavor}!</p>`
@@ -21,7 +21,8 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 ```
-PUT YOUR ANSWER HERE
+PUT YOUR ANSWER HERE:
+"1"
 ```
 
 <br><br>
@@ -48,6 +49,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+ "No"
 ```
 
 <br><br>
@@ -63,6 +65,7 @@ ReactDOM.render(
 );
 ```
 
+
 Choices:
 
 1. The `ReactDOM.render` method generates a virtual DOM node containing whatever content the `Kangaroos` component returns, and appends that to the element with an ID of root. Then, React compares the virtual DOM to the regular DOM and updates on the webpage only the elements that have changed.
@@ -77,6 +80,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"3"
 ```
 
 
@@ -93,6 +97,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"False"
 ```
 
 
@@ -114,6 +119,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"3"
 ```
 
 <br><br>
@@ -154,6 +160,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"1" , "4" , "5"
 ```
 
 <br><br>
@@ -192,6 +199,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"Yes"
 ```
 
 <br><br>
@@ -214,6 +222,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"2"
 ```
 
 <br><br>
@@ -237,6 +246,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"1"
 ```
 
 <br><br>
@@ -257,6 +267,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"state"
 ```
 
 <br><br>
@@ -290,6 +301,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"5"
 ```
 
 <br><br>
@@ -306,6 +318,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"False"
 ```
 
 <br><br>
@@ -327,6 +340,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"2"
 ```
 
 <br><br>
@@ -352,6 +366,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"Yes"
 ```
 
 <br><br>
@@ -379,6 +394,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+"Yes"
 ```
 
 <br>
