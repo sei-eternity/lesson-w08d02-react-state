@@ -23,7 +23,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1
 <br><br>
 
 **Question 2.** 
@@ -49,7 +49,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+2
 <br><br>
 
 **Question 3.** 
@@ -79,7 +79,7 @@ Choices:
 PUT YOUR ANSWER HERE
 ```
 
-
+1
 <br><br>
 **Question 4.** 
 
@@ -95,7 +95,7 @@ Choices:
 PUT YOUR ANSWER HERE
 ```
 
-
+2
 
 <br><br>
 **Question 5.** 
@@ -115,7 +115,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+3
 <br><br>
 
 **Question 6.** 
@@ -155,7 +155,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1
 <br><br>
 
 **Question 7.** 
@@ -193,7 +193,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+2
 <br><br>
 
 **Question 8.** 
@@ -215,7 +215,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+2
 <br><br>
 
 **Question 9.** 
@@ -238,7 +238,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4
 <br><br>
 
 **Question 10.** 
@@ -258,7 +258,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+1
 <br><br>
 
 **Question 11.** 
@@ -291,7 +291,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4
 <br><br>
 
 **Question 12.** 
@@ -328,7 +328,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+3
 <br><br>
 
 **Question 14.** 
@@ -353,7 +353,7 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4
 <br><br>
 
 **Question 15.** 
@@ -380,5 +380,5 @@ Choices:
 ```
 PUT YOUR ANSWER HERE
 ```
-
+4
 <br>
