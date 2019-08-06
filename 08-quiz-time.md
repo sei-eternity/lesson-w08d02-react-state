@@ -76,7 +76,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3
 ```
 
 
@@ -237,7 +237,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+4
 ```
 
 <br><br>
@@ -290,7 +290,7 @@ Choices:
 5. All of the above.
 
 ```
-- All of the above.
+- All of the above. (not sure about no.1)
 ```
 
 <br><br>
