@@ -21,7 +21,7 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 ```
-PUT YOUR ANSWER HERE
+<p>My favorite ice cream is {this.props.flavor}!</p>`
 ```
 
 <br><br>
@@ -47,7 +47,7 @@ Choices:
 2. `No`
 
 ```
-PUT YOUR ANSWER HERE
+No
 ```
 
 <br><br>
@@ -76,7 +76,10 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. The `ReactDOM.render` method generates a virtual DOM node containing whatever the JSX that the `Kangaroos` component returns. React then reloads the entire webpage, changing only the element with an ID of root.
+
+https://reactjs.org/docs/react-dom.html
+
 ```
 
 
@@ -92,7 +95,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
+ True
 ```
 
 
@@ -113,7 +116,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. `create-react-app jungle_maze`
 ```
 
 <br><br>
@@ -153,7 +156,11 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 ```
-PUT YOUR ANSWER HERE
+1. The Store component call needs to end with `/>`, not just `>`
+2. The prop name and variable name need to match - `buy_me` needs to be `milk` and `me_too` needs to be `spices`
+3. The `var groceryList` declaration needs to be inside the render method
+4. When passing the props into `Store`, the syntax is `this.groceryList.important` and `this.groceryList.spices`
+5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 ```
 
 <br><br>
@@ -191,7 +198,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+Yes
 ```
 
 <br><br>
@@ -213,7 +220,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+2. At the top of the component class; you only need it if you are changing any initial configurations for that class.
 ```
 
 <br><br>
@@ -236,7 +243,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+3. The virtual DOM tree is updated. The new state will be passed into the current state of the component. Only the correspondingly elements in the regular DOM tree will update.
 ```
 
 <br><br>
@@ -256,7 +263,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+prop
 ```
 
 <br><br>
@@ -289,7 +296,7 @@ Choices:
 5. All of the above.
 
 ```
-PUT YOUR ANSWER HERE
+5. All of the above.
 ```
 
 <br><br>
@@ -351,7 +358,7 @@ Choices:
 4. Yes
 
 ```
-PUT YOUR ANSWER HERE
+3. No - the first line of the function should be `const myDrinks = map( (drinks, index)`
 ```
 
 <br><br>
@@ -378,7 +385,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+Yes
 ```
 
 <br>
