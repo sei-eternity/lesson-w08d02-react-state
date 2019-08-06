@@ -20,7 +20,8 @@ Choices:
 3. `<p>My favorite ice cream is {props.flavor}!</p>`
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
-`1``
+```
+1
 ```
 
 <br><br>
@@ -75,7 +76,8 @@ Choices:
 
 
 ```
-1```
+1
+```
 
 
 <br><br>
