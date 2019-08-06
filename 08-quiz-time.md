@@ -21,9 +21,8 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 ```
-PUT YOUR ANSWER HERE
-```
-1
+1```
+
 <br><br>
 
 **Question 2.** 
@@ -47,9 +46,8 @@ Choices:
 2. `No`
 
 ```
-PUT YOUR ANSWER HERE
-```
-2
+2```
+
 <br><br>
 
 **Question 3.** 
@@ -76,10 +74,9 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
-```
+1```
 
-1
+
 <br><br>
 **Question 4.** 
 
@@ -92,10 +89,9 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
-```
+1```
 
-2
+
 
 <br><br>
 **Question 5.** 
@@ -113,9 +109,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
-```
-3
+3```
+
 <br><br>
 
 **Question 6.** 
@@ -153,9 +148,8 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 ```
-PUT YOUR ANSWER HERE
-```
-1
+1```
+
 <br><br>
 
 **Question 7.** 
@@ -191,9 +185,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
-```
-2
+2```
+
 <br><br>
 
 **Question 8.** 
@@ -213,9 +206,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
-```
-2
+2```
+
 <br><br>
 
 **Question 9.** 
@@ -236,9 +228,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
-```
-4
+4```
+
 <br><br>
 
 **Question 10.** 
@@ -256,9 +247,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
-```
-1
+1```
+
 <br><br>
 
 **Question 11.** 
@@ -289,9 +279,8 @@ Choices:
 5. All of the above.
 
 ```
-PUT YOUR ANSWER HERE
-```
-4
+4```
+
 <br><br>
 
 **Question 12.** 
@@ -305,8 +294,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
-```
+2```
 
 <br><br>
 
@@ -326,9 +314,8 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
-```
-3
+3```
+
 <br><br>
 
 **Question 14.** 
@@ -351,9 +338,8 @@ Choices:
 4. Yes
 
 ```
-PUT YOUR ANSWER HERE
-```
-4
+4```
+
 <br><br>
 
 **Question 15.** 
@@ -378,7 +364,6 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
-```
-4
+4```
+
 <br>
