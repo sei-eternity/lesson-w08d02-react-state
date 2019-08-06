@@ -21,7 +21,7 @@ Choices:
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
 ```
-PUT YOUR ANSWER HERE
+<p>My favorite ice cream is {this.props.flavor}!</p>
 ```
 
 <br><br>
@@ -47,7 +47,7 @@ Choices:
 2. `No`
 
 ```
-PUT YOUR ANSWER HERE
+NO
 ```
 
 <br><br>
@@ -92,7 +92,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
+TRUE
 ```
 
 
@@ -113,7 +113,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+`create-react-app jungle_maze`
 ```
 
 <br><br>
@@ -153,7 +153,7 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 ```
-PUT YOUR ANSWER HERE
+The Store component call needs to end with />, not just >
 ```
 
 <br><br>
@@ -256,7 +256,7 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+prop
 ```
 
 <br><br>
@@ -289,7 +289,7 @@ Choices:
 5. All of the above.
 
 ```
-PUT YOUR ANSWER HERE
+All of the above.
 ```
 
 <br><br>
@@ -305,7 +305,7 @@ Choices:
 2. `False`
 
 ```
-PUT YOUR ANSWER HERE
+True
 ```
 
 <br><br>
@@ -326,7 +326,9 @@ Choices:
 
 
 ```
-PUT YOUR ANSWER HERE
+A map is like a for loop. With map, you make a new variable and with it iterate through each item in an array.
+
+
 ```
 
 <br><br>
@@ -351,7 +353,7 @@ Choices:
 4. Yes
 
 ```
-PUT YOUR ANSWER HERE
+No - `soda` was never initialized
 ```
 
 <br><br>
