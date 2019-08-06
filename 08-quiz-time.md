@@ -22,6 +22,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+<p>My favorite ice cream is {this.props.flavor}!</p>
 ```
 
 <br><br>
@@ -48,6 +49,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+Yes
 ```
 
 <br><br>
@@ -77,6 +79,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+1
 ```
 
 
@@ -93,6 +96,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+false
 ```
 
 
@@ -114,6 +118,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+3
 ```
 
 <br><br>
@@ -154,6 +159,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+1 , 5
 ```
 
 <br><br>
@@ -192,6 +198,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+No
 ```
 
 <br><br>
@@ -214,6 +221,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+2 , but you can put where ever u want as long as its not in the render..
 ```
 
 <br><br>
@@ -237,6 +245,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+3
 ```
 
 <br><br>
@@ -257,6 +266,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+1
 ```
 
 <br><br>
@@ -290,6 +300,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+2 , 3 , 4
 ```
 
 <br><br>
@@ -306,6 +317,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+false
 ```
 
 <br><br>
@@ -327,6 +339,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+3
 ```
 
 <br><br>
@@ -352,6 +365,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+4
 ```
 
 <br><br>
@@ -379,6 +393,7 @@ Choices:
 
 ```
 PUT YOUR ANSWER HERE
+1
 ```
 
 <br>
