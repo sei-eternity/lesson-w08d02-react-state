@@ -20,8 +20,8 @@ Choices:
 3. `<p>My favorite ice cream is {props.flavor}!</p>`
 4. `<p>My favorite ice cream is {this.flavor}!</p>`
 
+`1``
 ```
-1```
 
 <br><br>
 
@@ -46,7 +46,8 @@ Choices:
 2. `No`
 
 ```
-2```
+2
+```
 
 <br><br>
 
@@ -89,7 +90,8 @@ Choices:
 2. `False`
 
 ```
-1```
+1
+```
 
 
 
@@ -109,7 +111,8 @@ Choices:
 
 
 ```
-3```
+3
+```
 
 <br><br>
 
@@ -148,7 +151,8 @@ Choices:
 5. The `buy_me={groceryList.milk}` prop should be `buy_me={groceryList.important}`
 
 ```
-1```
+1
+```
 
 <br><br>
 
@@ -185,7 +189,8 @@ Choices:
 
 
 ```
-2```
+2
+```
 
 <br><br>
 
@@ -206,7 +211,8 @@ Choices:
 
 
 ```
-2```
+2
+```
 
 <br><br>
 
@@ -228,7 +234,8 @@ Choices:
 
 
 ```
-4```
+4
+```
 
 <br><br>
 
@@ -247,7 +254,8 @@ Choices:
 
 
 ```
-1```
+1
+```
 
 <br><br>
 
@@ -279,7 +287,8 @@ Choices:
 5. All of the above.
 
 ```
-4```
+4
+```
 
 <br><br>
 
@@ -294,7 +303,8 @@ Choices:
 2. `False`
 
 ```
-2```
+2
+```
 
 <br><br>
 
@@ -314,7 +324,8 @@ Choices:
 
 
 ```
-3```
+3
+```
 
 <br><br>
 
@@ -338,7 +349,8 @@ Choices:
 4. Yes
 
 ```
-4```
+4
+```
 
 <br><br>
 
